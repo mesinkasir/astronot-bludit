@@ -6,6 +6,8 @@ Demo : [https://axcora.my.id/bludit/astronot/](https://axcora.my.id/bludit/astro
 
 Documentation : [https://axcora.my.id/bludit/bluger/astronot](https://axcora.my.id/bludit/bluger/astronot)
 
+Use emoji just copy and paste : [https://astronot.axcora.com/emoji.html](https://astronot.axcora.com/emoji.html)
+
 If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
 
 --------
@@ -23,5 +25,7 @@ Test Peform
 Demo : [https://axcora.my.id/bludit/astronot/](https://axcora.my.id/bludit/astronot/)
 
 Documentation : [https://axcora.my.id/bludit/bluger/astronot](https://axcora.my.id/bludit/bluger/astronot)
+
+Use emoji just copy and paste : [https://astronot.axcora.com/emoji.html](https://astronot.axcora.com/emoji.html)
 
 If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
