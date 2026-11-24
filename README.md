@@ -1,5 +1,9 @@
 # Astronot
 
+Download New Version installer : [Download Now →](https://creativitaz.gumroad.com/l/bl-astronot?layout=profile)
+
+Explore all projects: https://www.hockeycomputindo.com
+
 Flatfile cms no database super fast and secure include backend admin with bludit.
 
 Demo : [https://axcora.my.id/bludit/astronot/](https://axcora.my.id/bludit/astronot/)
